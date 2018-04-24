@@ -1,4 +1,4 @@
-#COGS260-Image-Recognition
+# COGS260-Image-Recognition
 
 Code for UCSD CogSci 260 Image Recognition
 
