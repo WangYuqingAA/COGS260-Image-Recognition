@@ -1,9 +1,10 @@
-# COGS260-Image-Recognition
+#COGS260-Image-Recognition
+
 Code for UCSD CogSci 260 Image Recognition
 
 ### Project 1
 
-* OpenCV Basic
+* OpenCV Basic (I/O, Smoothing, Denoising, Enhancement)
 
 * Canny, Sobel and Structure Forest Edge Detection
 
