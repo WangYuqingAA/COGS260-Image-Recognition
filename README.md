@@ -2,7 +2,7 @@
 
 Code for UCSD CogSci 260 Image Recognition
 
-### Project 1
+# Project 1
 
 * OpenCV Basic (I/O, Smoothing, Denoising, Enhancement)
 
@@ -10,7 +10,7 @@ Code for UCSD CogSci 260 Image Recognition
 
 * Structure Forest Ref: https://github.com/ArtanisCV/StructuredForests
 
-### Project 2
+# Project 2
 
 Project2 is finished in Python2.
 
