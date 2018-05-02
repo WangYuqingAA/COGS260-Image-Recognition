@@ -18,8 +18,8 @@ Project2 is finished in Python2.
 ### Problem4.ipynb
 
 * Spatial Pyramid Matching (SPM) for MNIST classification
-* Helpful functions are in '''utils.py''' .
-* Definition of classifiers is in '''classifier.py''' .
-* Definition of SPM process is in '''spm.py''' .
-
+* Helpful functions are in ```utils.py``` .
+* Definition of classifiers is in ```classifier.py``` .
+* Definition of SPM process is in ```spm.py``` .
+* SPM Ref: https://github.com/CyrusChiu/Image-recognition
 

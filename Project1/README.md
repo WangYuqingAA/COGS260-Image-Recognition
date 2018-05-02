@@ -1,11 +1,7 @@
 # Project 1
 
-* Problem 1: OpenCV Basic I/O, Image Smoothing and Denoising.
+* OpenCV Basic (I/O, Smoothing, Denoising, Enhancement)
 
-* Problem 2: Image Enhancement: Global or Adaptive Histogram Equalization (CLAHE).
+* Canny, Sobel and Structure Forest Edge Detection
 
-* Problem 3: Edge Detection: Canny, Sobel and Structured Forests.
-
-	* Structured Forests Ref Paper: P. Dollár and C. L. Zitnick, "Structured forests for fast edge detection" International Conference on Computer Vision, pp. 1841-1848, Dec. 2013.
-
-	* Structured Forests Ref code: https://github.com/ArtanisCV/StructuredForests 
+(Structure Forest Ref: https://github.com/ArtanisCV/StructuredForests)
