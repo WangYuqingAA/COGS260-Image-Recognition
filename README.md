@@ -14,23 +14,12 @@ Code for UCSD CogSci 260 Image Recognition
 
 Project2 is finished in Python2.
 
-### tf-mnist-Lenet.ipynb
+* CNN, K-Nearest Neighbors (KNN) and Support Vector Machines (SVM) for MNIST classification.
 
-* Build Modified LeNet-5 Model for MNIST classification
-* 99% prediction accuracy
+* Spatial Pyramid Matching (SPM) + SVM for MNIST classification.
 
-### 1-NN.ipynb
-
-* K-Nearest Neighbors for MNIST classification
-
-### SVM.ipynb
-
-* Support Vector Machine for MNIST classification
-
-### Problem4.ipynb
-
-* Spatial Pyramid Matching (SPM) for MNIST classification
-* Helpful functions are in ```utils.py``` .
-* Definition of classifiers is in ```classifier.py``` .
-* Definition of SPM process is in ```spm.py``` .
 * SPM Ref: https://github.com/CyrusChiu/Image-recognition
+
+# Project 3
+
+Building...
