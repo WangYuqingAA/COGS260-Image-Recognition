@@ -24,5 +24,5 @@ Project2 is finished in Python2.
 
 * Least Square Estimation vs Parabola Estimation and L1-norm vs L2-norm.
 * Perceptron Learning for Iris Dataset and compare the performance with raw data and Z-Score data.
-* Feed Forward Neural Network for self-defined number of layers with self-defined number of neurons on MNIST classification.
-* Modified AlexNet with Mini-batch training, evaluating different optimizers and accelerating tricks on CIFAR-10 classification.
+* Feed Forward Neural Network for self-defined number of layers with self-defined number of neurons on MNIST.
+* Modified AlexNet with Mini-batch training, evaluating different optimizers and accelerating tricks on CIFAR-10.
