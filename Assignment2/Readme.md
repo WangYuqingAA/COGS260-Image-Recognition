@@ -1,6 +1,6 @@
-# Project 2
+# Assignment 2
 
-Project2 is finished in Python2.
+Assignment 2 is finished in Python2.
 
 ### tf-mnist-Lenet.ipynb
 

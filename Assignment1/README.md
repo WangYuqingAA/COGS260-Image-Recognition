@@ -1,4 +1,4 @@
-# Project 1
+# Assignment 1
 
 * OpenCV Basic (I/O, Smoothing, Denoising, Enhancement)
 

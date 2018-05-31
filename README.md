@@ -2,7 +2,7 @@
 
 Code for UCSD CogSci 260 Image Recognition
 
-# Project 1
+# Assignment 1
 
 * OpenCV Basic (I/O, Smoothing, Denoising, Enhancement).
 
@@ -10,7 +10,7 @@ Code for UCSD CogSci 260 Image Recognition
 
 * Structure Forest Ref: https://github.com/ArtanisCV/StructuredForests.
 
-# Project 2
+# Assignment 2
 
 Project2 is finished in Python2.
 
@@ -20,9 +20,14 @@ Project2 is finished in Python2.
 
 * SPM Ref: https://github.com/CyrusChiu/Image-recognition.
 
-# Project3
+# Assignment 3
 
 * Least Square Estimation vs Parabola Estimation and L1-norm vs L2-norm.
 * Perceptron Learning for Iris Dataset and compare the performance with raw data and Z-Score data.
 * Feed Forward Neural Network for self-defined number of layers with self-defined number of neurons on MNIST.
 * Modified AlexNet with Mini-batch training, evaluating different optimizers and accelerating tricks on CIFAR-10.
+
+# Assignment 4
+
+* CharRNN for Shakespeare style text generation
+* YOLO object detection with rotation and collages.
