@@ -12,7 +12,7 @@ Code for UCSD CogSci 260 Image Recognition
 
 # Assignment 2
 
-Project2 is finished in Python2.
+Assignment2 is finished in Python2.
 
 * CNN, K-Nearest Neighbors (KNN) and Support Vector Machines (SVM) for MNIST classification.
 
